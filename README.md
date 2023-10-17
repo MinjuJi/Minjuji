@@ -1,4 +1,3 @@
-
 <h3 align="center">😄안녕하세요😄</h3>
 <br>
 <h3 align="center">📚학습중인 언어📚</h3>
@@ -9,6 +8,8 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 </div>
+
+
 
 <!--
 **MinjuJi/Minjuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
